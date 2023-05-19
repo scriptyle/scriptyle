@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, Scriptyle</h1>
-<h3 align="center">Desenvolvedor Front-end apaixonado por código, UI, UX, e acessibilidade.</h3>
+<h1>Olá 👋, Scriptyle</h1>
+<h3>Desenvolvedor Front-end apaixonado por código, UI, UX, e acessibilidade.</h3>
 
-- 🔭 Atualmente estou trabalhando em [Base](https://github.com/scriptyle/base)
+🔭 Atualmente estou trabalhando em [Base](https://github.com/scriptyle/base)
 
-- 🌱 No momento estou aprendendo **React**
+🌱 No momento estou aprendendo **React**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/scriptyle](https://github.com/scriptyle)
+👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/scriptyle](https://github.com/scriptyle)
 
-- 💬 Pergunte-me sobre **HTML5, CSS3 e JavaScript**
+💬 Pergunte-me sobre **HTML5, CSS3 e JavaScript**
 
-- 📫 Como chegar até mim **scriptyle@gmail.com**
+📫 Como chegar até mim **scriptyle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
