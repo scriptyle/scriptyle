@@ -1,4 +1,4 @@
-<h1>Olá 👋,</h1>
+<h1>Olá 👋</h1>
 <h3>Desenvolvedor Front-end apaixonado por código, UI, UX, e acessibilidade.</h3>
 
 🔭 Atualmente estou trabalhando em [Base](https://github.com/scriptyle/base)
